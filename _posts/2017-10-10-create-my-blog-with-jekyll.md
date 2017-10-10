@@ -13,6 +13,7 @@ author: Zxhnext
 一直以来都想搭建一个自己的博客，通过老师和前辈的指点，选择了在github上用jekyll搭建博客。
 
 
+
 ## 搭建过程
 
 在jekyll的官网上 [http://jekyllrb.com/](http://jekyllrb.com/) (我用的Windows系统)。  

@@ -18,6 +18,8 @@ Javascript是一种专为网页交互而设计的脚本语言，由下列三个�
 
 ![javascript-env](https://ww4.sinaimg.cn/large/006tNbRwgy1fcx2kxi8zqj30m609gjsa.jpg)
 
+
+
 ### 2. 使用方式？
 * 2.1 JavaScript的引入方法一：内嵌代码
 * 2.2 JavaScript的引入方法二：外部引入
