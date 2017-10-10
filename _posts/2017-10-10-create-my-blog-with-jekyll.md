@@ -4,6 +4,7 @@ title:  "Jekyll 搭建静态博客"
 date:   2017-10-10 22:14:54
 categories: jekyll
 tags: jekyll RubyGems
+author: Zxhnext
 ---
 
 * content

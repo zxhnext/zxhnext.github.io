@@ -4,7 +4,11 @@ title:  "JavaScript 基础入门"
 date:   2017-06-06 15:50:21
 categories: JavaScript
 tags: JavaScript
+author: Zxhnext
 ---
+
+* content
+{:toc}
 
 ### 1. 组成部分？
 Javascript是一种专为网页交互而设计的脚本语言，由下列三个不同的部门组成：
