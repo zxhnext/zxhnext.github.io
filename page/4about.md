@@ -22,7 +22,7 @@ type: page
 
 ## 友情链接
 
-[thinktxt](https://www.thinktxt.com) \|  [月影WEB](http://www.yydpt.com) \| 
+[thinktxt](https://www.thinktxt.com) \|  [月影WEB](http://www.yydpt.com) \| [Tycn](https://www.tycn.me/about/) \|
 
 ## 评论
 
