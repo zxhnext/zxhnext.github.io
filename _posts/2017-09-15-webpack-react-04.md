@@ -9,10 +9,10 @@ author: Zxhnext
 
 * content
 {:toc}
-要使用react,需要理解react环境需要什么. 
-### 1. 需要react模块 
-### 2. 需要react-dom模块 
-### 3. 需要babel 解析jsx语法
+要使用react,需要理解react环境需要什么.  
+1. 需要react模块  
+2. 需要react-dom模块  
+3. 需要babel 解析jsx语法  
 
 
 
