@@ -17,13 +17,12 @@ type: page
 * email：xiaohannext@qq.com
 * [Weibo](http://weibo.com/zxhnext)
 * [知乎](https://www.zhihu.com/people/zxhnext)
-* [Facebook](https://www.facebook.com/zxhnext)
 
 
 
 ## 友情链接
 
-[jekyll](http://jekyllcn.com) \| [github](https://www.github.com) \| [thinktxt](https://www.thinktxt.com) \|  [月影WEB](http://www.yydpt.com) \| 
+[thinktxt](https://www.thinktxt.com) \|  [月影WEB](http://www.yydpt.com) \| 
 
 ## 评论
 
