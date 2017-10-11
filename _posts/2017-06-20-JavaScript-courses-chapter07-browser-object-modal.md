@@ -19,6 +19,8 @@ window 对象指当前的浏览器窗口，这个对象有一些常用的方法�
 
 window对象是BOM的核心，window对象指当前的浏览器窗口。
 
+
+
 ### 1. 打开新窗口
 
 ```html
@@ -31,8 +33,6 @@ window对象是BOM的核心，window对象指当前的浏览器窗口。
     inp.onclick = windowOpen;
 </script>
 ```
-
-
 
 ## 计时器
 

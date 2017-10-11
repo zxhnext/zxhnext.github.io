@@ -23,6 +23,8 @@ var mynum = "1&nbsp;&nbsp;&nbsp;2";
 document.write(mynum);
 ```
 
+
+
 ### 2. 警告框 alert
 使用语法： alert(字符串或变量)
 
@@ -30,9 +32,6 @@ document.write(mynum);
 
 ### 1. 通过id获取元素
 document.getElementById();
-
-
-
 ```html
 <p id="pid">JavaScript</p>
 <script type="text/javascript">
