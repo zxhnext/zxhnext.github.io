@@ -10,7 +10,6 @@ author: Zxhnext
 * content
 {:toc}
 ## 输出到网页
-
 ### 1. document.write
 实例练习：
 

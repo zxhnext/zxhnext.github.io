@@ -9,7 +9,6 @@ author: Zxhnext
 
 * content
 {:toc}
-
 ### 1. 组成部分？
 Javascript是一种专为网页交互而设计的脚本语言，由下列三个不同的部门组成：
 1.ECMAScirpt， 由ECMA-262定义，提供核心语言功能，js核心语言标准；

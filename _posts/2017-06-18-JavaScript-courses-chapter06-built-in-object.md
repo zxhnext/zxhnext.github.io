@@ -9,9 +9,7 @@ author: Zxhnext
 
 * content
 {:toc}
-
 ## 什么是对象
-
 ### 1. 对象的定义
 
 对象（Object）是 JavaScript 的核心概念，也是最重要的数据类型。
