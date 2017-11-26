@@ -7,32 +7,32 @@
  * @param  {[type]} function( [description]
  * @return {[type]}           [description]
  */
-// (function() {
+(function() {
 
-//   /**
-//      * 内容JSON
-//      */
-//   var demoContent = [
-//     {
-//       demo_link: 'http://gaohaoyang.github.io/test/headerTransition/',
-//       img_link: 'https://ooo.0o0.ooo/2016/06/20/5768c1597d1fe.png',
-//       code_link: 'https://github.com/Gaohaoyang/test/tree/master/headerTransition',
-//       title: 'Header Transition 渐变动画',
-//       core_tech: 'jQuery BootStrap CSS3',
-//       description: '花费不到半小时帮师兄做了一个简单的 CSS3 动画效果，当页面滚动到指定距离时，header 区的背景色由透明变为蓝色。仿照了网站 <a href ="https://quorrajs.org/">https://quorrajs.org/</a> 的 Header 区动画效果。'
-//     }, {
-//       demo_link: 'http://gaohaoyang.github.io/test/bootstrap-zhihu/',
-//       img_link: 'http://7q5cdt.com1.z0.glb.clouddn.com/teach-girlfriend-html-CopyZhihu.jpg',
-//       code_link: 'https://github.com/Gaohaoyang/test/tree/master/bootstrap-zhihu',
-//       title: '仿知乎页面',
-//       core_tech: 'HTML BootStrap',
-//       description: '使用BootStrap仿照知乎做了一个静态页面。'
-//     }
-//   ];
+  /**
+     * 内容JSON
+     */
+  var demoContent = [
+    {
+      demo_link: 'http://www.zxhnext.top/qichenews/',
+      img_link: '../demoImg/qichenews.png',
+      code_link: 'https://github.com/zxhnext/qichenews',
+      title: 'vue单页新闻',
+      core_tech: 'Vue webpack less',
+      description: '一个简单的手机端vue单页面应用,采用rem布局,使用了less,字体图标以及webpack打包工具'
+    }, {
+      demo_link: 'http://gaohaoyang.github.io/test/bootstrap-zhihu/',
+      img_link: 'http://7q5cdt.com1.z0.glb.clouddn.com/teach-girlfriend-html-CopyZhihu.jpg',
+      code_link: 'https://github.com/Gaohaoyang/test/tree/master/bootstrap-zhihu',
+      title: '仿知乎页面',
+      core_tech: 'HTML BootStrap',
+      description: '使用BootStrap仿照知乎做了一个静态页面。'
+    }
+  ];
 
-//   contentInit(demoContent) //内容初始化
-//   waitImgsLoad() //等待图片加载，并执行布局初始化
-// }());
+  contentInit(demoContent) //内容初始化
+  waitImgsLoad() //等待图片加载，并执行布局初始化
+}());
 
 /**
  * 内容初始化
