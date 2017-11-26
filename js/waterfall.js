@@ -34,15 +34,8 @@
       title: '光棍节摇一摇',
       core_tech: 'jquery less velocity canvas',
       description: '做了一个光棍节摇一摇的移动端网页,运用到了jquery,less,调用了velocity动画库,每次可随机摇出一个光棍节陪你过的人'
-    }, {
+    },{
       demo_link: 'http://www.zxhnext.top/baidu/',
-      img_link: '../demoImg/baidu.png',
-      code_link: 'https://github.com/zxhnext/baohua',
-      title: '仿宝华页面',
-      core_tech: 'HTML CSS',
-      description: '仿照宝华网站做了一个静态页面,运用到了一些轮播图插件,以及css3旋转属性'
-    }, {
-      demo_link: 'http://www.zxhnext.top/baohua/',
       img_link: '../demoImg/baidu.png',
       code_link: 'https://github.com/zxhnext/baidu',
       title: '仿百度搜索',
