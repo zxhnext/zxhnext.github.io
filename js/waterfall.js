@@ -21,12 +21,40 @@
       core_tech: 'Vue webpack less',
       description: '一个简单的手机端vue单页面应用,采用rem布局,使用了less,字体图标以及webpack打包工具'
     }, {
-      demo_link: 'http://gaohaoyang.github.io/test/bootstrap-zhihu/',
-      img_link: 'http://7q5cdt.com1.z0.glb.clouddn.com/teach-girlfriend-html-CopyZhihu.jpg',
-      code_link: 'https://github.com/Gaohaoyang/test/tree/master/bootstrap-zhihu',
-      title: '仿知乎页面',
-      core_tech: 'HTML BootStrap',
-      description: '使用BootStrap仿照知乎做了一个静态页面。'
+      demo_link: 'http://www.zxhnext.top/baohua/',
+      img_link: '../demoImg/baohua.png',
+      code_link: 'https://github.com/zxhnext/baohua',
+      title: '仿宝华页面',
+      core_tech: 'HTML CSS',
+      description: '仿照宝华网站做了一个静态页面,运用到了一些轮播图插件,以及css3旋转属性'
+    }, {
+      demo_link: 'http://www.zxhnext.top/guanggunjie/',
+      img_link: '../demoImg/guanggunjie.png',
+      code_link: 'https://github.com/zxhnext/guanggunjie',
+      title: '光棍节摇一摇',
+      core_tech: 'jquery less velocity canvas',
+      description: '做了一个光棍节摇一摇的移动端网页,运用到了jquery,less,调用了velocity动画库,每次可随机摇出一个光棍节陪你过的人'
+    }, {
+      demo_link: 'http://www.zxhnext.top/baidu/',
+      img_link: '../demoImg/baidu.png',
+      code_link: 'https://github.com/zxhnext/baohua',
+      title: '仿宝华页面',
+      core_tech: 'HTML CSS',
+      description: '仿照宝华网站做了一个静态页面,运用到了一些轮播图插件,以及css3旋转属性'
+    }, {
+      demo_link: 'http://www.zxhnext.top/baohua/',
+      img_link: '../demoImg/baidu.png',
+      code_link: 'https://github.com/zxhnext/baidu',
+      title: '仿百度搜索',
+      core_tech: 'js',
+      description: '调用百度接口做了一个百度搜索界面,由于同源策略问题,这里用secipt标签引入'
+    }, {
+      demo_link: 'http://www.zxhnext.top/translate/',
+      img_link: '../demoImg/translate.png',
+      code_link: 'https://github.com/zxhnext/translate',
+      title: '百度翻译',
+      core_tech: 'js jquery',
+      description: '调用百度翻译接口做了一个翻译页面,实现自动检测输入语言,以及翻译和清空内容功能'
     }
   ];
 
