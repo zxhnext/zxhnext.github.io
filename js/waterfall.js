@@ -52,7 +52,7 @@
       demo_link: 'http://www.zxhnext.top/iphonealbum/',
       img_link: '../demoImg/iphonealbum.png',
       code_link: 'https://github.com/zxhnext/iphonealbum',
-      title: '仿百度相册',
+      title: '仿苹果相册',
       core_tech: 'jquery css3',
       description: '仿照苹果系统做了一个简单相册demo,倒影功能支持google浏览器,其他浏览器暂不提供支持'
     }, {
