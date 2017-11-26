@@ -11,7 +11,7 @@ type: page
 
 暂时没想好,想好再写  
 
-我的小说:[青春是孤单得冒险](http://yunqi.qq.com/bk/lmqc/AGkEMV1jVjEAPlRhATQBZw-l.html)
+我的小说:[青春是孤单的冒险](http://yunqi.qq.com/bk/lmqc/AGkEMV1jVjEAPlRhATQBZw-l.html)
 ## 联系我
 
 * GitHub：[zxhnext](https://github.com/zxhnext)
