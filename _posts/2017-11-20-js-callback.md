@@ -32,6 +32,7 @@ b();
 
 
 
+
 js里面最基础的异步实现 
 ![执行结果](http://www.zxhnext.top/images/callback.png)
 运行结果  
