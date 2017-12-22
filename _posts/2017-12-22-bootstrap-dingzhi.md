@@ -14,6 +14,10 @@ author: Zxhnext
 ```
 npm install --save-dev webpack
 ```
+
+
+
+
 [webpack官网](https://webpack.js.org/guides/asset-management/)  
 2. 在根目录新建dist目录,src目录,并在dist目录中新建index.html,引入<script type="text/javascript" src="build.js"></script>  
 在src目录中新建index.js,在根目录新建webpack.config.js,并进行如下配置
