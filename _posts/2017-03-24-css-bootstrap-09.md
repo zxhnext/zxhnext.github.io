@@ -3,7 +3,7 @@ layout: post
 title:  "响应式网站和bootstrpBootstrap"
 date:   2017-03-19 15:50:21
 categories: css
-tags: css Bootstrap Html 响应式
+tags: css Bootstrap less 响应式
 author: Zxhnext
 ---
 
@@ -39,10 +39,12 @@ author: Zxhnext
 ## 2. 体验bootstrp
 
 bootstrp 由全局样式和组件构成.组件是在全局样式的基础上制作而成的
-栅格布局  
+[参考文档](http://v3.bootcss.com/)
 ## 3. 学习less基础
 
 less是一种动态样式语言.是css的一种补充.目的是为了提升css的编写效率和维护效率.可以在[http://koala-app.com/](http://koala-app.com/)下载koala进行编译.这是一个非常棒的编译工具  
+
+less参考文档: [http://www.bootcss.com/p/lesscss/](http://www.bootcss.com/p/lesscss/)
 ### 3.1. 变量  
 
 变量和程序代码中的变量概念是一样的.将最常用的值,如ui的颜色,div的宽高,都定义成变量.在日后维护中会更加方便.less定义变量的方法是:@+变量名;赋值用的是冒号 如@color:#08c 如果变量需要放在字符串中显示,就需要将变量改为@{变量名}
@@ -126,82 +128,5 @@ width: 200px;height: 200px;
 }
 .box2{
    .box1>.margin(10px);
-}
-```
-##4. less与bootstrp的实际应用
-
-1.在官网下载bootstrp的less源码包  
-2.常用less文件简介  
-`bootstrap.less`  
-这是主要的 Less 文件。该文件中导入了一些其他的 less 文件。该文件中没有任何代码。  
-`forms.less`  
-这个 Less 文件包含了表单布局、输入框类型的样式。  
-`mixins.less`  
-这个 Less 文件让 CSS 代码可重复使用。  
-`patterns.less`  
-这个 Less 文件包含了重复的用户界面元素的 CSS 代码，不会被位于 scaffolding Less 文件中的基本样式覆盖。  
-`reset.less`  
-这个 Less 文件包含了 CSS 重置。这是 Eric Meyer 的 CSS 重置的一个更新。一些 HTML 元素比如 dfn、samp 等的重置被免除。  
-`scaffolding.less`  
-这个 Less 文件保存了创建网格系统、结构化布局、页面模板所需的基本样式。  
-`tables.less` 
-这个 Less 文件包含了创建表格的样式。  
-t`ype.less`  
-这个 Less 文件下可找到排版相关的样式。标题、段落、列表、代码等的样式位于这个文件里边。 
-`variables.less`  
-这个 Less 文件包含了要定制 Bootstrap 外观和感观的变量。  
-3.修改源文件,为bootstrp制作排水沟.主要修改`grid.less和mixins`文件夹中的`grid.less`和`grid-framework`  
-修改 `grid.less`文件  
-代码开头引入`mixins`  
-```css
-@import "mixins/grid-framework.less";
-@import "mixins/grid.less";
-@import "variables.less";
-// Row
-//
-// Rows contain and clear the floats of your columns.
-.row {
-  .make-row();
-}
-.row-sm {
-  .make-row(4px);
-}
-.row-md {
-  .make-row(10px);
-}
-.row-lg {
-  .make-row(20px);
-}
-// Columns
-//
-// Common styles for small and large grid columns
-.make-grid-columns();
-.make-grid-columns-custom(".row-sm",4px);
-.make-grid-columns-custom(".row-md",10px);
-.make-grid-columns-custom(".row-lg",20px);
-```
-修改`mixins`文件夹中的grid-framework.less文件.增加一个`minxins`方法,来自定义排水沟样式
-```css
-.make-grid-columns-custom(@row,@width) {
-  // Common styles for all sizes of grid columns, widths 1-12
-  .col(@index) { // initial
-      @item: ~"@{row} .col-xs-@{index}, @{row} .col-sm-@{index}, @{row} .col-md-@{index}, @{row} .col-lg-@{index}";
-    .col((@index + 1), @item);
-  }
-  .col(@index, @list) when (@index =< @grid-columns) { // general; "=<" isn't a typo
-    @item: ~"@{row} .col-xs-@{index}, @{row} .col-sm-@{index}, @{row} .col-md-@{index}, @{row} .col-lg-@{index}";
-    .col((@index + 1), ~"@{list}, @{item}");
-  }
-  .col(@index, @list) when (@index > @grid-columns) { // terminal
-    @{list} {
-      position: relative;
-      // Prevent columns from collapsing when empty
-      min-height: 1px;
-      // Inner gutter via padding
-      padding-left:  ceil((@width / 2));
-      padding-right: floor((@width / 2));
-    }
-  }
-  .col(1); // kickstart it
 }
 ```
