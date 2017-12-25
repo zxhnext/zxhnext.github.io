@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "前段常用资源"
+title:  "前端常用资源"
 date:   2017-12-23 15:50:21
 categories: 插件
 tags: 插件
