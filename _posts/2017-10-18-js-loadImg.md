@@ -3,9 +3,10 @@ layout: post
 title:  "JS判断单、多张图片加载完成"
 date:   2017-10-18 22:14:54
 categories: js
-tags: js
+tags: js load
 author: Zxhnext
 ---
+
 * content
 {:toc}
 
