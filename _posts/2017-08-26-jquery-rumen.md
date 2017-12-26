@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "jquery"
+title:  "jquery入门"
 date:   2017-08-26 22:14:54
 categories: jquery
 tags: jquery
