@@ -10,17 +10,6 @@ author: Zxhnext
 * content
 {:toc}
 
-JQuery第二节-
-
-JQuery 课程提纲
-
-JQuery第二节-Ajax与Json数据
-Ajax
-JS原生XMLHttpRequest对象
-JQuery的Ajax
-JSON
-示例
-天气接口实战练习
 Ajax
 
 概念：一种请求数据的方式，不需要刷新整个页面
@@ -98,3 +87,6 @@ JSON
     },
     "msg": "请求正确"
 }
+
+[利用jQuery实现多个ajax请求等待](http://mp.weixin.qq.com/s/DQZWi_PqnZU_F5VpPhC98w)  
+[Ajax不能跨域访问的解决方案](https://mp.weixin.qq.com/s/ZUNQhhvj6_FOxmG2MDgRyg)
