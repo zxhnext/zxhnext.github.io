@@ -86,7 +86,7 @@ $ jekyll server
 到这里你的Github-Pages博客站点就大功告成啦！
 
 ## 博客主题
-找[jekyll主题][http://jekyllthemes.org/]或者自己设计，找到喜欢的主题后下载主题代码自行替换你站点目录的代码（你可以全部替换，因为一个主题就是有基本功能的jekyll站点）。
+找[jekyll主题](http://jekyllthemes.org/)或者自己设计，找到喜欢的主题后下载主题代码自行替换你站点目录的代码（你可以全部替换，因为一个主题就是有基本功能的jekyll站点）。
 
 
 ##添加评论插件

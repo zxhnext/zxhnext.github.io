@@ -10,13 +10,15 @@ author: Zxhnext
 * content
 {:toc}
 
-Ajax
-
 概念：一种请求数据的方式，不需要刷新整个页面
 ajax的技术核心是 XMLHttpRequest 对象；
 ajax 请求过程：创建 XMLHttpRequest 对象、连接服务器、发送请求、接收响应数据；
 JS原生XMLHttpRequest对象
 
+
+
+
+```js
 function loadXMLDoc() {
     var xmlhttp = new XMLHttpRequest();
     xmlhttp.open("GET", "ajax_info.txt", true);
@@ -34,8 +36,9 @@ function loadXMLDoc() {
         }
     };
 }
+```
 JQuery的Ajax
-
+```js
 $.ajax({
     url: 'xxx.json',
     type:'GET',
@@ -87,6 +90,7 @@ JSON
     },
     "msg": "请求正确"
 }
+```
 
 [利用jQuery实现多个ajax请求等待](http://mp.weixin.qq.com/s/DQZWi_PqnZU_F5VpPhC98w)  
 [Ajax不能跨域访问的解决方案](https://mp.weixin.qq.com/s/ZUNQhhvj6_FOxmG2MDgRyg)
