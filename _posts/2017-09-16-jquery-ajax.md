@@ -184,8 +184,8 @@ json刚好被js支持（object）
 这种获取远程数据的方式看起来非常像ajax，但其实并不一样
 便于客户端使用数据，逐渐形成了一种非正式传输协议，人们把它称作JSONP。
 
-传递一个callback参数给跨域服务端，然后跨域服务端返回数据时会将这个callback参数作为函数名来包裹住json数据即可。
-
+传递一个callback参数给跨域服务端，然后跨域服务端返回数据时会将这个callback参数作为函数名来包裹住json数据即可。  
+相关链接: [深入理解 JavaScript 异步系列（1）](http://mp.weixin.qq.com/s/d2IgiekUMgqKOyvrw5fqJA)  
 二、老板，来一斤栗子。
 【栗子一】  
 跨域服务器  

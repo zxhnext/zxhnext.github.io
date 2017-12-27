@@ -388,3 +388,7 @@ CSS代码如下：
     -moz-animation-iteration-count:infinite;
 }
 ```
+
+
+相关链接:  
+[前端性能优化（CSS动画篇）](http://mp.weixin.qq.com/s/73X390pRUnAVoe9ntqh5uQ)
