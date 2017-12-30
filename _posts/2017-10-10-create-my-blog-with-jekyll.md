@@ -14,7 +14,8 @@ author: Zxhnext
 
 ## 搭建过程
 
-在jekyll的官网上 [http://jekyllrb.com/](http://jekyllrb.com/) (我用的Windows系统)。  
+在jekyll的官网上 [http://jekyllrb.com/](http://jekyllrb.com/) (Windows系统)。  
+中文地址 :[http://jekyllcn.com/](http://jekyllcn.com/)  
 主要环节有：安装Ruby，安装RubyGems，安装jekyll，安装代码高亮插件，安装node.js
 
 
