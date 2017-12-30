@@ -43,7 +43,7 @@ velocity.js [http://velocityjs.org/](http://velocityjs.org/)
 Awesome(bootstrap) [http://www.bootcss.com/p/font-awesome/](http://www.bootcss.com/p/font-awesome/)  
 有字库 [https://www.youziku.com/](https://www.youziku.com/)  
 阿里图标 [http://www.iconfont.cn/](http://www.iconfont.cn/)  
-[https://icomoon.io/app/#/select](https://icomoon.io/app/#/select)  
+[https://icomoon.io/](https://icomoon.io/)  
 ## 二. jquery
 jquery cdn :[http://www.bootcdn.cn/jquery/](http://www.bootcdn.cn/jquery/)  
 1. 特效类  
