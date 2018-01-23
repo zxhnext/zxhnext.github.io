@@ -146,6 +146,13 @@
       title: 'AJAX分页新闻',
       core_tech: 'js',
       description: '调用新闻数据接口,实现了一个简单的分页新闻列表功能'
+    }, {
+      demo_link: 'http://zxhnext.coding.me/lantern/',
+      img_link: '../demoImg/ajaxpage.png',
+      code_link: 'https://coding.net/u/zxhnext/p/lantern/git',
+      title: '元宵灯谜会',
+      core_tech: 'animate cc',
+      description: '使用Animate CC2015制作的的一个元宵灯谜游戏'
     }
   ];
 
