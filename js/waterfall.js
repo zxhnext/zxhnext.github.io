@@ -126,6 +126,13 @@
       core_tech: 'js jquery',
       description: '调用百度翻译接口做了一个翻译页面,实现自动检测输入语言,以及翻译和清空内容功能'
     }, {
+      demo_link: 'http://www.zxhnext.top/overturn/',
+      img_link: '../demoImg/overturn.png',
+      code_link: 'https://github.com/zxhnext/overturn',
+      title: '动四角度翻转',
+      core_tech: 'js css3',
+      description: '使用js及css3做的一个四角度翻转效果'
+    }, {
       demo_link: 'http://www.zxhnext.top/iphonealbum/',
       img_link: '../demoImg/iphonealbum.png',
       code_link: 'https://github.com/zxhnext/iphonealbum',
@@ -140,12 +147,12 @@
       core_tech: 'jquery',
       description: '运用jquery做的一个简单抽屉导航特效'
     }, {
-      demo_link: 'http://www.zxhnext.top/swiper/',
-      img_link: '../demoImg/swiper.png',
-      code_link: 'https://github.com/zxhnext/swiper',
-      title: 'swiper',
-      core_tech: 'js',
-      description: '运用js模拟swiper插件效果'
+      demo_link: 'http://www.zxhnext.top/dragPhotos/',
+      img_link: '../demoImg/dragPhotos.png',
+      code_link: 'https://github.com/zxhnext/dragPhotos',
+      title: '3d相册',
+      core_tech: 'js css3',
+      description: '运用js与css3动画制作的一个3d拖拽图片效果'
     }, {
       demo_link: 'http://www.zxhnext.top/ballPump/',
       img_link: '../demoImg/ballPump.png',
@@ -201,14 +208,7 @@
       code_link: 'https://github.com/zxhnext/deleteImg',
       title: '动态删除相册',
       core_tech: 'js',
-      description: '使用js及c做的一个动态删除照片案例'
-    }, {
-      demo_link: 'http://www.zxhnext.top/deleteImg/',
-      img_link: '../demoImg/deleteImg.png',
-      code_link: 'https://github.com/zxhnext/deleteImg',
-      title: '动态删除相册',
-      core_tech: 'js',
-      description: '使用js及c做的一个动态删除照片案例'
+      description: '使用js做的一个动态删除照片案例'
     }, {
       demo_link: 'http://www.zxhnext.top/progressBar/',
       img_link: '../demoImg/progressBar.png',
