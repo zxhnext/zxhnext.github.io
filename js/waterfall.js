@@ -98,6 +98,13 @@
       core_tech: 'js',
       description: '一个瀑布流加载的简单demo'
     }, {
+      demo_link: 'http://www.zxhnext.top/ajaxpage/',
+      img_link: '../demoImg/ajaxpage.png',
+      code_link: 'https://github.com/zxhnext/ajaxpage',
+      title: '新闻分页',
+      core_tech: 'js ajax',
+      description: '使用ajax js制作的一个新闻分页浏览案例'
+    }, {
       demo_link: 'http://www.zxhnext.top/carousel/',
       img_link: '../demoImg/carousel.png',
       code_link: 'https://github.com/zxhnext/carousel',
@@ -129,7 +136,7 @@
       demo_link: 'http://www.zxhnext.top/overturn/',
       img_link: '../demoImg/overturn.png',
       code_link: 'https://github.com/zxhnext/overturn',
-      title: '动四角度翻转',
+      title: '四角度翻转',
       core_tech: 'js css3',
       description: '使用js及css3做的一个四角度翻转效果'
     }, {
