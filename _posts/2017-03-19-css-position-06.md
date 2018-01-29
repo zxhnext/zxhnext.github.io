@@ -53,7 +53,7 @@ zara官网的定位案例
 # 2. 思考左侧边栏能否使用定位制作
 
 2.1 三级导航的制作:  
-```html
+```css
     *{margin: 0; padding: 0}
     .clearfix { *zoom: 1;} 
     .clearfix:before, .clearfix:after { display: table; line-height: 0; content: "";}
@@ -66,6 +66,9 @@ zara官网的定位案例
     .nav ul li{width: 100px; position: relative;}
     .nav ul li>ul{position: absolute; width: 100px; right: -100px;top: 0; background-color: orange;visibility: hidden;}
     .nav li ul li:hover>ul{visibility: visible;}
+```
+
+```html
    <ul class="nav">
        <li><a href="">首页</a></li>
        <li><a href="">关于我们</a>

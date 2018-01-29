@@ -84,12 +84,9 @@ text-overflow:clip 文字溢出后直接裁掉.
 ## 5. BFC详解
 
 5.1 不同盒子的渲染方式介绍:  
-```
-block-level box: display 属性为 block, list-item, table 的元素，会生成 block-level box。并且参与 block fomatting context；
-```
-```
-inline-level box: display 属性为 inline, inline-block, inline-table 的元素，会生成 inline-level box。并且参与 inline formatting context；
-```
+block-level box:  display 属性为 block, list-item, table 的元素，会生成 block-level box。并且参与 block fomatting context；
+
+inline-level box:  display 属性为 inline, inline-block, inline-table 的元素，会生成 inline-level box。并且参与 inline formatting context；
 
 5.2 BFC定义  
 
@@ -118,5 +115,5 @@ BFC布局规则：
 
 5.5.6. 计算BFC的高度时，浮动子元素也参与计算(内部浮动不会导致父元素高度塌陷)  
 
-总结:当父元素生成BFC的时候,里面的元素再怎么折腾都不影响父元素及其他元素.哪些元素会生成BFC.
+总结:当父元素生成BFC的时候,里面的元素再怎么折腾都不影响父元素及其他元素.哪些元素会生成BFC.  
 [参考文档](https://www.thinktxt.com/web-front/2017/02/18/css-bfc-layout-model.html)

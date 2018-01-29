@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "响应式网站和bootstrpBootstrap"
-date:   2017-03-19 15:50:21
+date:   2017-03-24 15:50:21
 categories: css
 tags: css Bootstrap less 响应式
 author: Zxhnext
@@ -38,8 +38,8 @@ author: Zxhnext
 
 ## 2. 体验bootstrp
 
-bootstrp 由全局样式和组件构成.组件是在全局样式的基础上制作而成的
-[参考文档](http://v3.bootcss.com/)
+bootstrp 由全局样式和组件构成.组件是在全局样式的基础上制作而成的  
+[相关链接](http://v3.bootcss.com/)
 ## 3. 学习less基础
 
 less是一种动态样式语言.是css的一种补充.目的是为了提升css的编写效率和维护效率.可以在[http://koala-app.com/](http://koala-app.com/)下载koala进行编译.这是一个非常棒的编译工具  
