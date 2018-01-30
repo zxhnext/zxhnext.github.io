@@ -42,7 +42,7 @@ bootstrp 由全局样式和组件构成.组件是在全局样式的基础上制�
 [相关链接](http://v3.bootcss.com/)
 ## 3. 学习less基础
 
-less是一种动态样式语言.是css的一种补充.目的是为了提升css的编写效率和维护效率.可以在[http://koala-app.com/](http://koala-app.com/)下载koala进行编译.这是一个非常棒的编译工具  
+less是一种动态样式语言.是css的一种补充.目的是为了提升css的编写效率和维护效率.可以在[http://koala-app.com/index-zh.html](http://koala-app.com/index-zh.html)下载koala进行编译.这是一个非常棒的编译工具  
 
 less参考文档: [http://www.bootcss.com/p/lesscss/](http://www.bootcss.com/p/lesscss/)
 ### 3.1. 变量  
