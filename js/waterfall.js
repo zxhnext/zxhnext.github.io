@@ -108,9 +108,9 @@
       demo_link: 'http://www.zxhnext.top/carousel/',
       img_link: '../demoImg/carousel.png',
       code_link: 'https://github.com/zxhnext/carousel',
-      title: '天猫轮播特效',
+      title: '天猫轮播特效,新闻轮播图',
       core_tech: 'js',
-      description: '模仿天猫首页的新闻轮播特效'
+      description: '两个轮播特效,第一个模仿天猫首页的新闻轮播特效,第二个为纯css3制作的新闻轮播特效,在项目效果链接后面加cssdemo.html即可查看'
     }, {
       demo_link: 'http://www.zxhnext.top/fullpage/',
       img_link: '../demoImg/fullpage.png',
