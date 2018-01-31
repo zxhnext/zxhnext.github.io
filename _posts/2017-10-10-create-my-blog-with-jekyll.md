@@ -67,11 +67,11 @@ $ cd myBlog
 $ jekyll server
 ```
 
-打开浏览器，输入：http://localhost:4000/
+打开浏览器，输入：[http://localhost:4000/](http://localhost:4000/)
 这样一个基本的jekyll站点就建立好了。
 
 ## 创建Github-Pages
-> 首先创建一个git仓库：[Create a new repository][https://github.com/new]
+> 首先创建一个git仓库：[Create a new repository](https://github.com/new)
 
 仓库名为：`username.github.io`，`username` : 为你的github用户名。
 
@@ -82,7 +82,7 @@ $ jekyll server
 
 ## 推送到Github
 将你刚刚创建的jekyll站点代码推送到你新创建的`username.github.io`仓库。
-然后访问你的github-Pages页面地址，比如我的：https://vimplus.github.io
+然后访问你的github-Pages页面地址，比如我的：https://zxhnext.github.io(https://zxhnext.github.io)
 
 到这里你的Github-Pages博客站点就大功告成啦！
 
@@ -90,6 +90,7 @@ $ jekyll server
 找[jekyll主题](http://jekyllthemes.org/)或者自己设计，找到喜欢的主题后下载主题代码自行替换你站点目录的代码（你可以全部替换，因为一个主题就是有基本功能的jekyll站点）。
 
 
-##添加评论插件
-可以选择disqus或[livere][https://livere.com/login_form]或[畅言][http://changyan.sohu.com/]作为评论系统，其中disqus和livere为国外网站，可自行百度设置。
+## 添加评论插件
+可以选择disqus或[livere](https://livere.com/login_form)或[畅言](http://changyan.sohu.com/)作为评论系统，其中disqus和livere为国外网站，可自行百度设置。
+
 
