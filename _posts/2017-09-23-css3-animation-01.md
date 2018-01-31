@@ -192,11 +192,10 @@ ul,li{list-style:none;}
 
 ### 四：transform:translate();
 
-     含义：变动，位移
+含义：变动，位移
 
-     如：-webkit-transform:translate(120px,0); 表示向右位移120px，向上位移0px；向左向下位移则为负 “-”，如下demo
-
-    HTML代码如下：
+如：-webkit-transform:translate(120px,0); 表示向右位移120px，向上位移0px；向左向下位移则为负 “-”，如下demo  
+HTML代码如下：
 ```
 <h2>transform属性-translate变动位移的demo</h2>
 <div class="translate">
