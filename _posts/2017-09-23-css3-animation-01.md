@@ -197,7 +197,7 @@ ul,li{list-style:none;}
      如：-webkit-transform:translate(120px,0); 表示向右位移120px，向上位移0px；向左向下位移则为负 “-”，如下demo
 
     HTML代码如下：
-```html
+```
 <h2>transform属性-translate变动位移的demo</h2>
 <div class="translate">
         <img src="http://m1.img.srcdd.com/farm5/d/2015/0228/22/FD9886C5434AC71115812ED3DB6409B9_B500_900_500_269.jpeg"/>
@@ -215,7 +215,7 @@ CSS代码如下：
 .translate img:hover {-webkit-transform:translate(120px,0);-moz-transform:translate(120px,0);-o-transform:translate(120px,0)}
 ```
 
-## 三：Animations功能；
+## 五：Animations功能；
 Animations功能与Transitions功能相同，都是通过改变元素的属性值来实现动画效果的。它们的区别在于：使用Transitions功能是只能通过指定属性的开始值与结束值。然后在这两个属性值之间进行平滑过渡的方式来实现动画效果，因此不能实现复杂的动画效果；而Animations则通过定义多个关键帧以及定义每个关键帧中元素的属性值来实现更为复杂的动画效果。
 
 用法：@-webkit-keyframes 关键帧的集合名 {创建关键帧的代码}
