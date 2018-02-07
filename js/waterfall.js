@@ -13,7 +13,14 @@
      * 内容JSON
      */
   var demoContent = [
-    {
+     {
+      demo_link: 'http://www.zxhnext.top/dajia/',
+      img_link: '../demoImg/dajia.png',
+      code_link: 'https://github.com/zxhnext/dajia',
+      title: '大家',
+      core_tech: 'jquery less velocity',
+      description: '模仿大家做了一个答题的游戏,有升级人物,解锁道具功能,用到了一些css3动画,以及velocity动画库.'
+    }, {
       demo_link: 'http://www.zxhnext.top/guanggunjie/',
       img_link: '../demoImg/guanggunjie.png',
       code_link: 'https://github.com/zxhnext/guanggunjie',
@@ -27,6 +34,13 @@
       title: 'vue单页新闻',
       core_tech: 'Vue webpack less',
       description: '一个简单的手机端vue单页面应用,使用rem布局,字体图标,使用了less,jquery等插件,以及webpack打包工具'
+    }, {
+      demo_link: 'http://www.zxhnext.top/weixindemo/',
+      img_link: '../demoImg/weixindemo.png',
+      code_link: 'https://github.com/zxhnext/weixindemo',
+      title: '微信小程序新闻页面',
+      core_tech: '微信小程序',
+      description: '一个微信小程序新闻阅读项目,实现了新闻阅读,收藏,取消收藏,以及搜索功能.'
     }, {
       demo_link: 'http://www.zxhnext.top/baohua/',
       img_link: '../demoImg/baohua.png',

@@ -82,7 +82,7 @@ $ jekyll server
 
 ## 推送到Github
 将你刚刚创建的jekyll站点代码推送到你新创建的`username.github.io`仓库。
-然后访问你的github-Pages页面地址，比如我的：https://zxhnext.github.io(https://zxhnext.github.io)
+然后访问你的github-Pages页面地址，比如我的：[https://zxhnext.github.io](https://zxhnext.github.io)
 
 到这里你的Github-Pages博客站点就大功告成啦！
 
