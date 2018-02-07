@@ -35,9 +35,9 @@
       core_tech: 'Vue webpack less',
       description: '一个简单的手机端vue单页面应用,使用rem布局,字体图标,使用了less,jquery等插件,以及webpack打包工具'
     }, {
-      demo_link: 'http://www.zxhnext.top/weixindemo/',
-      img_link: '../demoImg/weixindemo.png',
-      code_link: 'https://github.com/zxhnext/weixindemo',
+      demo_link: 'http://www.zxhnext.top/weixinnews/',
+      img_link: '../demoImg/weixinnews.png',
+      code_link: 'https://github.com/zxhnext/weixinnews',
       title: '微信小程序新闻页面',
       core_tech: '微信小程序',
       description: '一个微信小程序新闻阅读项目,实现了新闻阅读,收藏,取消收藏,以及搜索功能.'
