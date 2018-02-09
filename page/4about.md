@@ -9,7 +9,7 @@ type: page
 * content
 {:toc}
 
-<div align=center> 
+<div style="margin-left: 200px"> 
     <img src="../images/avatar.jpg" width = "134" height = "155" alt="我的头像" />
 </div>
 
