@@ -19,7 +19,7 @@
       code_link: 'https://github.com/zxhnext/dajia',
       title: '大家',
       core_tech: 'jquery less velocity',
-      description: '模仿大家做了一个答题的游戏,有升级人物,解锁道具功能,用到了一些css3动画,以及velocity动画库.'
+      description: '大家的一个答题的游戏,有升级人物,解锁道具功能,用到了一些css3动画,以及velocity动画库.'
     }, {
       demo_link: 'http://www.zxhnext.top/guanggunjie/',
       img_link: '../demoImg/guanggunjie.png',
@@ -45,9 +45,9 @@
       demo_link: 'http://www.zxhnext.top/baohua/',
       img_link: '../demoImg/baohua.png',
       code_link: 'https://github.com/zxhnext/baohua',
-      title: '仿宝华页面',
+      title: '宝华页面',
       core_tech: 'HTML CSS',
-      description: '仿照宝华网站做了一个静态页面,运用到了一些轮播图插件,以及css3旋转属性'
+      description: '宝华网站首页的静态页面,运用到了一些轮播图插件,以及css3旋转属性'
     }, {
       demo_link: 'http://zxhnext.coding.me/lantern/',
       img_link: '../demoImg/lantern.png',
